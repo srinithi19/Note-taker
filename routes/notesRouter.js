@@ -27,3 +27,5 @@ notesRouter.post('/', (req, res) => {
       res.error('Error in adding note');
     }
   });
+
+  module.exports = notesRouter;
