@@ -1,11 +1,17 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
         "title": "meeting",
         "text": "TA meeting",
         "id": "8bb06303-008b-411a-aca0-da4e36cef4f3"
+    },
+    {
+        "title": "assignment",
+        "text": "due monday",
+        "id": "93cf074f-217d-4412-9fcc-82dd4c505a68"
+    },
+    {
+        "title": "assgn2",
+        "text": "due thu",
+        "id": "0fc5ac7b-cf73-43f7-9d56-e2048bd9bf45"
     }
 ]
