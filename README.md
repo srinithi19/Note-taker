@@ -35,6 +35,8 @@ Users can list of notes available /api/notes as endpoint and users can click on 
 
 <br />
 
+Heroku deployed URL - https://serene-bastion-78075.herokuapp.com/
+
 ## Learning Points 
 
 * using expressJs on the backend
